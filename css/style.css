@@ -5,3 +5,17 @@ body {
     font-family: Georgia,"Times New Roman",Times,serif;
     color: #333333;
   }
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 0;
+    padding: 10px;
+}
+h2 {
+    font-size: 24px;
+}
